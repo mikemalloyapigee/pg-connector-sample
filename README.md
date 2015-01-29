@@ -10,7 +10,7 @@ From the command line, run "node app.js"
 
 ## Usage
 Using the existing query to REST map, usage would be:
-br
+<br>
 curl http://localhost:9000/orgs?email=some email address or
-br
+<br>
 curl http://localhost:9000/accounts?org=some org name 
