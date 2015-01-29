@@ -2,11 +2,11 @@
 Sample usage of a volos Postgres connector
 
 ## Setup and Installation
-Clone this repository to your local machine
-From the command line, run "npm install volos-pgsql"
-Update the credentials and database name in app.js
-Configure query to REST map in queryToRestMap.js
-From the command line, run "node app.js"
+Clone this repository to your local machine<br>
+From the command line, run "npm install volos-pgsql"<br>
+Update the credentials and database name in app.js<br>
+Configure query to REST map in queryToRestMap.js<br>
+From the command line, run "node app.js"<br>
 
 ## Usage
 Using the existing query to REST map, usage would be:
